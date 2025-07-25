@@ -8,7 +8,7 @@
 ## 📽️ Teaser Video
 Watch: `dreamflux teaser`
 ## 📊 Pitch Deck
-See: `dreamflux slide`
+See: `dreamflux slide.pptx`
 ## 🌐 Landing Page Image
 ![Landing Page](dreamfluxlandingpage.png)
 ## 👤 Made by: Syed Hamza
