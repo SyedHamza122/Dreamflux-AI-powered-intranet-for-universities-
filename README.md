@@ -6,7 +6,7 @@
 - Events, Chat, Calendar
 - Modern Design
 ## 📽️ Teaser Video
-Watch: `dreamflux teaser`
+Watch: `dreamflux teaser.mp4`
 ## 📊 Pitch Deck
 See: `dreamflux slide.pptx`
 ## 🌐 Landing Page Image
